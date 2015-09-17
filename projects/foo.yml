@@ -1,0 +1,6 @@
+---
+display_name: Foo
+description: Project Foo has no description.
+project_email: foo@example.com
+slack_project_channel_name: project-foo
+slack_client_channel_name: client-foo
