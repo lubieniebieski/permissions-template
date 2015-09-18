@@ -1,0 +1,7 @@
+---
+name: true
+email: true
+github: false
+public_key: true
+external: false
+test: false
