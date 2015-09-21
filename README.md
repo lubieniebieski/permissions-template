@@ -17,6 +17,7 @@ public_key: true
 external: false
 ```
 
+Do not name an attribute: `key`, `attributes`, `required_attributes`, `permitted_atrributes`. It will override the methods.
 Each attribute specified in config file is available as method on model in the gem. Additional methods are `permitted_attributes` (lists all keys from config), `required_attributes` (lists only required keys from config) and `key` (name of the file).
 
 ## Collections
