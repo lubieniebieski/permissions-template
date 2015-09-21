@@ -5,8 +5,7 @@ description: Reiciendis magnam et quis ut adipisci sit et quas. Atque cumque nat
 slack_project_channel_name: project-ad
 slack_client_channel_name: client-ad
 project_email: esse@organisation.com
-teams:
-  github_teams:
-    - ad
-  google_groups:
-    - ad-team
+github_teams:
+  - ad
+google_groups:
+  - ad-team
