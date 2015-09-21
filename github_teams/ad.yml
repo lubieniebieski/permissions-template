@@ -1,0 +1,8 @@
+---
+permission: push
+members:
+  - john.doe
+  - chloe.adams
+repos:
+  - ad-api
+  - ad-web
