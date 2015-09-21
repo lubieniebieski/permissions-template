@@ -5,3 +5,5 @@ description: false
 project_email: true
 slack_project_channel_name: true
 slack_client_channel_name: false
+github_teams: false
+google_groups: false
